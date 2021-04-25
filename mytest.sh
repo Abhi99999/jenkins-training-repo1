@@ -4,3 +4,4 @@ cal
 echo "bye"
 echo "new code added"
 echo "auto git trigger using HOOKS"
+echo "final setup comlpeted"
